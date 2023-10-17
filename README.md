@@ -1,4 +1,4 @@
-# ML_final_assignment
+# Airbnb Comments analysis
 
 In this project, I analyzed the data from the Airbnb website to predict multiple continuous rating 
 scores. Two different regression models (Ridge and K-Nearest Neighbors Model (KNN)) will be 
