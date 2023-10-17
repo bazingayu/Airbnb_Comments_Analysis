@@ -1,4 +1,10 @@
 # ML_final_assignment
+
+In this project, I analyzed the data from the Airbnb website to predict multiple continuous rating 
+scores. Two different regression models (Ridge and K-Nearest Neighbors Model (KNN)) will be 
+used to the extracted features to predict the scores. In the last, the importance in each model will be 
+presented to show which feature is most related to the rating scores. You can see details in the report.
+
 #finalProjects is the train code folder
 #data is the data folder
 
